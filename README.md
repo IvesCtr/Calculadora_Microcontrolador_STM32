@@ -12,7 +12,8 @@ Manoel Guilherme Oliveira Ferreira (510256) <br/>
 Carlos Henrique Mapurunga de Miranda Filho (496244) <br/>
 Antonio Marcos Gabriel Dias Freire Fernandes (508301) <br/>
 
-<br> As informações de montagem nas imagens abaixo, além de configurações técnicas e manual.<br/> <br>
+<br> As informações de montagem estão nas imagens abaixo, além de configurações técnicas e manual.<br/>
+<br>
 ![Informações Técnicas](https://user-images.githubusercontent.com/120431088/207389988-bcb43887-9917-4d98-9896-725289de581f.png)
 ![Materiais Usados](https://user-images.githubusercontent.com/120431088/207390024-b7b76816-6ee3-4008-a037-61881b3b14c2.png)
 ![Manual da Calculadora](https://user-images.githubusercontent.com/120431088/207390007-266f5df2-a593-49e0-913f-54a45b1c93e4.png)
