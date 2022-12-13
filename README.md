@@ -4,14 +4,14 @@ Calculadora desenvolvida para o projeto final da disciplina de Sistemas Micropro
 <br> A calculadora realiza diversas operações, as quais, juntamente com os valores, podem ser digitadas no teclado matricial, pressionando as teclas. Os valores e os operadores digitados são impressos de maneira quase instantânea no Oled, a fim de o usuário conferir se os dados estão corretos. Ao clicar para a operação ser realizada, o resultado aparece no Oled. Ademais, a calculadora possui histórico, que aparece no computador por meio do envio de dados realizado pelo conversor USB Serial.
 <br>Software usados: <br/>
 - STM32CubeIDE
-- 
+- Tera Term
 <br> As informações de montagem nas imagens abaixo, além de configurações técnicas e manual.
 <br>
 <br>Equipe: <br/>
-Ives de Castro Alencar Campos (512055) <br/>
-Manoel Guilherme Oliveira Ferreira (510256) <br/>
-Carlos Henrique Mapurunga de Miranda Filho (496244) <br/>
-Antonio Marcos Gabriel Dias Freire Fernandes (508301) <br/>
+- Ives de Castro Alencar Campos (512055) <br/>
+- Manoel Guilherme Oliveira Ferreira (510256) <br/>
+- Carlos Henrique Mapurunga de Miranda Filho (496244) <br/>
+- Antonio Marcos Gabriel Dias Freire Fernandes (508301) <br/>
 
 
 ![Informações Técnicas](https://user-images.githubusercontent.com/120431088/207389988-bcb43887-9917-4d98-9896-725289de581f.png)
