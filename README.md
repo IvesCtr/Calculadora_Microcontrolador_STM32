@@ -1,7 +1,7 @@
 # **Calculadora**
 
 Calculadora desenvolvida para o projeto final da disciplina de Sistemas Microprocessados, mininstrada pelo Professor Jardel.
-<br> A calculadora realiza diversas operações, as quais, juntamente com os valores, podem ser digitadas no teclado matricial, pressionando as teclas. Os valores e os operadores digitados são impressos de maneira quase instantânea no Oled, a fim de o usuário conferir se os dados estão corretos. Ao clicar para a operação ser realizada, o resultado aparece no Oled. Ademais, a calculadora possui histórico, que aparece no computador por meio do envio de dados realizado pelo conversor USB Serial.
+<br> A calculadora realiza diversas operações, as quais, juntamente com os valores, podem ser digitadas no teclado matricial, pressionando as teclas. Os valores e os operadores digitados são impressos de maneira quase instantânea no display Oled, a fim de o usuário conferir se os dados estão corretos. Ao clicar para a operação ser realizada, o resultado aparece no Oled. Ademais, a calculadora possui histórico, que aparece no computador por meio do envio de dados realizado pelo conversor USB Serial.
 <br>Software usados:
 - STM32CubeIDE
 - Tera Term
