@@ -2,6 +2,7 @@
 
 Calculadora desenvolvida para o projeto final da disciplina de Sistemas Microprocessados, mininstrada pelo Professor Jardel.
 Seguem informações de montagem nas imagens abaixo, além de configurações técnicas e manual.
+<br>Equipe: <br/>
 
 
 ![Informações Técnicas](https://user-images.githubusercontent.com/120431088/207389988-bcb43887-9917-4d98-9896-725289de581f.png)
