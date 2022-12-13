@@ -2,12 +2,12 @@
 
 Calculadora desenvolvida para o projeto final da disciplina de Sistemas Microprocessados, mininstrada pelo Professor Jardel.
 Seguem informações de montagem nas imagens abaixo, além de configurações técnicas e manual.
-<br><br/>
+<br>
 <br>Equipe: <br/>
-<br>Ives de Castro Alencar Campos (512055) <br/>
-<br>Manoel Guilherme Oliveira Ferreira (510256) <br/>
-<br>Carlos Henrique Mapurunga de Miranda Filho (496244) <br/>
-<br>Antonio Marcos Gabriel Dias Freire Fernandes (508301) <br/>
+Ives de Castro Alencar Campos (512055) <br/>
+Manoel Guilherme Oliveira Ferreira (510256) <br/>
+Carlos Henrique Mapurunga de Miranda Filho (496244) <br/>
+Antonio Marcos Gabriel Dias Freire Fernandes (508301) <br/>
 
 
 ![Informações Técnicas](https://user-images.githubusercontent.com/120431088/207389988-bcb43887-9917-4d98-9896-725289de581f.png)
